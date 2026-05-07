@@ -1,4 +1,4 @@
-# -Bank-Credit-Prediction-ML-Algorithms-Comparison#
+# -Bank-Credit-Prediction-ML-Algorithms-Comparison
 
 ### A Machine Learning project to predict credit approval and compare the performance of various algorithms.
 
